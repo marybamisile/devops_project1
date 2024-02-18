@@ -1,3 +1,4 @@
-git clone url
-git status
-git push
+git clone url <br>
+git status <br>
+git push <br>
+git checkout -b mary
